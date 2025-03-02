@@ -1,3 +1,6 @@
+MAR 02 2023 
+    GIT checkin issues
+
 MAR 01 2023 
 
 This projject starts as Karpathy's nanoGPT with no changes
